@@ -1,0 +1,486 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"yml_",
+				"yml_path"
+			],
+			[
+				"yml",
+				"yml_path"
+			],
+			[
+				"para",
+				"parameter_1"
+			],
+			[
+				"sho",
+				"show_para"
+			],
+			[
+				"pa",
+				"parameter_2"
+			],
+			[
+				"rle",
+				"rule_type"
+			],
+			[
+				"par",
+				"parameter_2"
+			],
+			[
+				"show",
+				"show_detail"
+			],
+			[
+				"_ne",
+				"_new_code"
+			],
+			[
+				"api_",
+				"api_script"
+			],
+			[
+				"ap",
+				"api_script"
+			],
+			[
+				"set_",
+				"set_language"
+			],
+			[
+				"set",
+				"set_license"
+			],
+			[
+				"api",
+				"api_key"
+			],
+			[
+				"va",
+				"validate"
+			],
+			[
+				"create",
+				"Create_Condition_Update_Note_CC"
+			],
+			[
+				"_v",
+				"_validate"
+			],
+			[
+				"_va",
+				"_validate_id"
+			],
+			[
+				"p",
+				"parameter_2"
+			],
+			[
+				"validate",
+				"_validate"
+			],
+			[
+				"new",
+				"New"
+			],
+			[
+				"param",
+				"parameter_2"
+			],
+			[
+				"__m",
+				"__name__\t(instance)"
+			],
+			[
+				"assign",
+				"assignee_list\t(statement)"
+			],
+			[
+				"val",
+				"validate_file"
+			],
+			[
+				"mod",
+				"ModuleS"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "event/plugins/sharedStateA.py",
+			"settings":
+			{
+				"buffer_size": 2586,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/Virtualenv/Python + Virtualenv.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Virtualenv/Python + Virtualenv.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pakcage",
+		"selected_items":
+		[
+			[
+				"pakcage",
+				"Package Control: Install Package"
+			],
+			[
+				"git branc",
+				"Git: New Branch"
+			],
+			[
+				"git ",
+				"Git: Commit"
+			],
+			[
+				"gits",
+				"Git: Status"
+			],
+			[
+				"virt",
+				"Virtualenv: Activate"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"python",
+				"PythonTest: Run project tests"
+			],
+			[
+				"git",
+				"Git: Pull"
+			],
+			[
+				"ma",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				" vir",
+				"Virtualenv: Activate"
+			],
+			[
+				"vir",
+				"Virtualenv: Activate"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 484.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/loney/Git/patac-api",
+		"/Users/loney/Git/patac-api/event"
+	],
+	"file_history":
+	[
+		"/Users/loney/Box Sync/MyDocuments/Shotgun/Toolkit/APITestOnly/futian/SGsite.py",
+		"/Users/loney/Git/sgrb/rb_setting/set.rb",
+		"/Users/loney/Git/sgrb/rb_setting/license.yml",
+		"/Users/loney/Git/sgrb/rb_perm/rule_lib.rb",
+		"/Users/loney/Git/sgrb/rb_perm/rules.yml",
+		"/Users/loney/Git/sgrb/rb_perm/set_permission.rb",
+		"/Users/loney/Git/sgrb/rb_perm/set_note_permission.rb",
+		"/Users/loney/Git/sgrb/rb_setting/settings.rb",
+		"/Users/loney/Git/sgrb/rb_perm/create_permission_group.rb",
+		"/Users/loney/Git/sgrb/rb_setting/set_lib.rb",
+		"/Users/loney/Git/sgrb/sgrb.sublime-workspace",
+		"/Users/loney/Git/sgrb/sgrb.sublime-project",
+		"/Users/loney/ShotgunPKG/set_note_permission.rb",
+		"/Users/loney/ShotgunPKG/set_permission.rb",
+		"/Users/loney/ShotgunPKG/rule_lib.rb",
+		"/Users/loney/ShotgunPKG/trs-jing.rb",
+		"/Users/loney/Box Sync/CFINCustomers/Installation/CFINNetworkLicense/flamelicense.txt",
+		"/Users/loney/Downloads/cdn_ips_20171103.xml",
+		"/Users/loney/Box Sync/MyDocuments/Shotgun/Customers/jing-china/Licenses/sg.autodesk.com",
+		"/Users/loney/Box Sync/MyDocuments/Shotgun/Customers/jing-china/Licenses/production_api",
+		"/Users/loney/ShotgunPKG/trs.rb",
+		"/Users/loney/Desktop/services.yml",
+		"/Users/loney/Desktop/trs.rb",
+		"/Users/loney/Box Sync/MyDocuments/Shotgun/dev/DB.txt",
+		"/Users/loney/OneDrive - autodesk/CHINA/Application/Stingray/LuaCode/Lua-PlayVideo/playvideo.txt",
+		"/Users/loney/Library/Application Support/Alfred 3/Alfred.alfredpreferences/workflows/user.workflow.524B64BD-C50F-42EC-9DDB-3C32325748A6/version",
+		"/Users/loney/Desktop/Logs-Shotgun.txt",
+		"/private/var/folders/qp/w87jblh17qxgmp5fnt2rs12c0000gn/T/com.microsoft.Outlook/Outlook Temp/ATT00001.txt",
+		"/Users/loney/ShotgunPKG/sh/install_centos6.sh",
+		"/Users/loney/Box Sync/MyDocuments/Shotgun/Toolkit/customerToolkit.sublime-project",
+		"/Users/loney/Downloads/gui_resources/scripts/gui_renderer_component.lua",
+		"/Users/loney/Downloads/gui_resources/scripts/gui_interaction_component.lua",
+		"/Users/loney/Downloads/gui_resources/scripts/gui_hit_testing.lua",
+		"/Users/loney/Downloads/gui_resources/scripts/gui_button_default.lua",
+		"/Users/loney/Desktop/sec.txt",
+		"/Users/loney/Ruby/sample_app/Guardfile",
+		"/Users/loney/Ruby/sample_app/config/routes.rb",
+		"/Users/loney/Ruby/sample_app/test/test_helper.rb",
+		"/Users/loney/Ruby/sample_app/test/controllers/static_pages_controller_test.rb",
+		"/Users/loney/Ruby/sample_app/.gitignore",
+		"/Users/loney/Ruby/sample_app/app/views/static_pages/home.html.erb",
+		"/Users/loney/Ruby/sample_app/app/views/static_pages/help.html.erb",
+		"/Users/loney/Ruby/sample_app/app/views/layouts/application.html.erb",
+		"/Users/loney/Ruby/sample_app/app/controllers/application_controller.rb",
+		"/Users/loney/Ruby/sample_app/app/controllers/static_pages_controller.rb",
+		"/Users/loney/Ruby/sample_app/README.md",
+		"/Users/loney/Ruby/sample_app/app/views/static_pages/about.html.erb",
+		"/Users/loney/Ruby/sample_app/Gemfile",
+		"/Users/loney/autodesk/me_shotgun_operations - 文档/sec-classic-data/clusters/Micros TEMP.json",
+		"/Users/loney/autodesk/me_shotgun_operations - 文档/sec-classic-data/clusters/Mikros.json",
+		"/Users/loney/autodesk/me_shotgun_operations - 文档/sec-classic-data/clusters/ODW Shanghai VM.json",
+		"/Users/loney/Git/OSTest/centos6/Vagrantfile",
+		"/Users/loney/Box Sync/MyDocuments/Shotgun/Toolkit/APITestOnly/RedchilliesVFX/getTaskAssigneeFromEventLog.py",
+		"/Users/loney/Box Sync/MyDocuments/Shotgun/Toolkit/APITestOnly/RedchilliesVFX/getAssigneeList.py",
+		"/Users/loney/Box Sync/MyDocuments/Shotgun/Toolkit/APITestOnly/RedchilliesVFX/getEvent.py",
+		"/Users/loney/Desktop/license_mac_4437955698786885",
+		"/Applications/StarUML.app/Contents/www/license/node/LicenseManagerDomain.js",
+		"/Users/loney/Desktop/error.txt",
+		"/Users/loney/Box Sync/MyDocuments/Shotgun/LocalInstallDoc/Docker/Docker Se Local Install.txt",
+		"/Users/loney/Ruby/toy_app/Gemfile",
+		"/Users/loney/Ruby/toy_app/Gemfile.lock",
+		"/Users/loney/Ruby/hello_app/Gemfile",
+		"/Users/loney/Ruby/hello_app/README.md",
+		"/Users/loney/Ruby/hello_app/hello_app/Gemfile",
+		"/Users/loney/Box Sync/MyDocuments/Shotgun/MyConfiguration/ssh_config",
+		"/Users/loney/Box Sync/MyDocuments/Shotgun/MyConfiguration/gitconfig.txt",
+		"/Users/loney/Box Sync/MyDocuments/Shotgun/MyConfiguration/openssl_passwd",
+		"/Users/loney/Box Sync/MyDocuments/Shotgun/MyConfiguration/10_2017/openssl_password.txt",
+		"/Users/loney/Git/OSTest/centos7/Vagrantfile",
+		"/Users/loney/Git/OSTest/.gitignore",
+		"/Users/loney/Git/enterprise-toolbox/config/dc/sec.py",
+		"/Users/loney/Git/enterprise-toolbox/config/dc/versions.py",
+		"/Users/loney/Git/enterprise-toolbox/config/dc/app.py",
+		"/Users/loney/Git/enterprise-toolbox/config/dcConfig.sublime-project",
+		"/Users/loney/Box Sync/MyDocuments/Shotgun/Toolkit/APITestOnly/3dexcite/batchtask.py",
+		"/Users/loney/Box Sync/MyDocuments/Shotgun/Toolkit/APITestOnly/mysite/SGsite.py",
+		"/Users/loney/Desktop/7.7.0.0 - Wave 1.csv",
+		"/Users/loney/Box Sync/MyDocuments/Shotgun/Toolkit/APITestOnly/examples/SGsite.py",
+		"/Users/loney/Box Sync/MyDocuments/Shotgun/Toolkit/APITestOnly/mysite/__init__.py",
+		"/Users/loney/Box Sync/MyDocuments/Shotgun/Ruby/learning/oop_test.rb",
+		"/Users/loney/Box Sync/MyDocuments/Shotgun/Ruby/learning/myclass.rb",
+		"/Users/loney/Box Sync/MyDocuments/Shotgun/Ruby/learning/myclassMain.rb",
+		"/Users/loney/Box Sync/MyDocuments/Shotgun/Ruby/learning/modules.rb",
+		"/Users/loney/Box Sync/MyDocuments/Shotgun/Ruby/learning/moduleMain.rb",
+		"/Users/loney/Box Sync/MyDocuments/Shotgun/Ruby/learning/hash_dict.rb",
+		"/Users/loney/Box Sync/MyDocuments/Shotgun/Ruby/learning/hash_bucket.rb",
+		"/Users/loney/Git/enterprise-toolbox/setup/postgresql_bootstrap_centos7.sh",
+		"/Users/loney/Box Sync/MyDocuments/Shotgun/Toolkit/APITestOnly/pictureshop/getEpisodes.py",
+		"/Users/loney/Library/Application Support/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/Users/loney/Box Sync/MyDocuments/Shotgun/Customers/CraftAsia/Licenses/production-license.txt",
+		"/Users/loney/Box Sync/MyDocuments/Shotgun/MyConfiguration/quay_io.txt",
+		"/Users/loney/Box Sync/MyDocuments/Shotgun/Toolkit/alfred-sg-tools/README.md",
+		"/Users/loney/Box Sync/MyDocuments/Shotgun/Toolkit/toolkit"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "event/plugins/sharedStateA.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 2586,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"markdonw_live_preview_last_run": 1520986784.69,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 362.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 306.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 102.0
+	},
+	"pinned_build_system": "",
+	"project": "event.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 214.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
