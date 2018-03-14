@@ -1,0 +1,45 @@
+version: '2'
+permission_group: "artist"
+rules:
+  - Note:
+    - rule01:
+      rule_type: "update_field_condition"
+      parameter_1: "Note"
+      parameter_2: "addressings_to"
+      parameter_3: ""
+      parameter_4: ""
+      allow: "true"
+      retrieve_value: '{"path":"id", "relation":"is_not","values":[0]}'
+    - rule02:
+      rule_type: "update_field_condition"
+      parameter_1: "Note"
+      parameter_2: "sg_status_list"
+      parameter_3: "cmpt"
+      parameter_4: ""
+      allow: "true"
+      retrieve_value: '{ "logical_operator": "or", "conditions": [{"path":"id", "relation":"is_not", "values":[null] } ] }'
+  - Version:
+    - rule01:
+      rule_type: "update_field_condition"
+      parameter_1: "Version"
+      parameter_2: "sg_status_list"
+      parameter_3: "apr"
+      parameter_4: ""
+      allow: "true"
+      retrieve_value: '{ "logical_operator": "or", "conditions": [{"path":"id", "relation":"is_not", "values":[null] } ] }'
+    # - rule02:
+    #   rule_type: "see_entity_condition"
+    #   parameter_1: "Version"
+    #   parameter_2: ""
+    #   parameter_3: ""
+    #   parameter_4: ""
+    #   allow: "true"
+    #   retrieve_value: '{ "logical_operator": "or", "conditions": [ { "path": "created_by", "relation": "is", "values": [ { "type": "HumanUser", "id": 0, "valid": "logged_in_user_token" } ] }, { "path": "sg_task.Task.task_assignees", "relation": "is", "values": [ { "type": "HumanUser", "id": 0, "valid": "logged_in_user_token", "name": "logged_in_user_token" } ] } ] }'
+    - rule03:
+      rule_type: "see_entity_condition"
+      parameter_1: "Version"
+      parameter_2: ""
+      parameter_3: ""
+      parameter_4: ""
+      allow: "true"
+      retrieve_value: '{ "logical_operator": "or", "conditions": [ { "path": "created_by", "relation": "is", "values": [ { "type": "HumanUser", "id": 0, "valid": "logged_in_user_token" } ] }, { "path": "sg_task.Task.task_assignees", "relation": "is", "values": [ { "type": "HumanUser", "id": 0, "valid": "logged_in_user_token", "name": "logged_in_user_token" } ] }, { "path": "sg_exposed", "relation": "is", "values": [ true ] } ] }'
